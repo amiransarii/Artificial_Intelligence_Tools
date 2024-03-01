@@ -1,0 +1,82 @@
+List of tools covered so far: 
+1.Chatgpt:ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT 
+          to answer followup questions, admit its mistakes,challenge incorrect premises, and reject inappropriate requests	
+Actions:
+A. Go to https://chat.openai.com/auth/login
+B.Login with Gmail account or Register with new account , fill the required detaills
+C. Ask question in Send Message Search Box"		
+FAQ: https://help.openai.com/en/articles/6783457-what-is-chatgpt
+					
+2.gamma.app: Create a working presentation, document or webpage you can refine and customize in under a minute, 
+             using our powerful AI generator"	
+Actions:
+A. Go to  https://gamma.app/	
+A. Login with Gmail account or Register with new account , fill the required detaills
+C. Enter a tpoic ( you can use any language), It might take few minutes"	
+FAQ: https://gamma.app/public/Frequently-Asked-Questions-FAQ-o2he6ual8noal7u?mode=doc
+					
+3.slidesgo: Slidesgo offers an extensive catalog of free Google Slides themes 
+            and PowerPoint templates for creative presentations. These are customizable to better suit the needs 
+			of any given user, so the possibilities are endless	
+Actions:
+A. Go to https://slidesgo.com/
+A. Login with Gmail account or Register with new account,fill the required detaills
+C. Search a Template, according to your subject title"		
+FAQ: https://slidesgo.com/faqs
+					
+4.unroll.me: It gives you the tools you need to manage a cluttered mailbox full of pesky subscriptions emails
+Actions:
+A. Go to https://unroll.me/
+B. Login with Gmail Account or Sign Up with new account  
+C. Unsuscribe the List of emails, which you do not want	
+FAQ: https://support.unroll.me/hc/en-us/categories/115000940626-FAQs
+					
+5.12ft.io:URL of any paywalled page, and It will try its best to remove the paywall and get you access to the article	
+          Put the URL of the article( which is paid) in search box	
+Actions:
+A. Go through https://12ft.io/	
+B. Put the URL of the article( which is paid) in search box
+FAQ:https://12ft.io/
+
+				
+6.Merlin google chrome extension:It is a revolutionary new UI for using OpenAI's ChatGPT on all your favorite sites. 
+It helps you get the best out of AI on Google Search,  Youtube, Gmail, LinkedIn, Substack and 10+ million other websites	
+Actions:
+A. Login with Gmail account or Register with new account,fill the required detaills
+B. https://chrome.google.com/webstore/detail/merlin-chatgpt-assistant/camppjleccjaphfdbohjdohecfnoikec	
+C. https://www.merlin.foyer.work/
+					
+7. Askyourpdf: It is an AI-powered chat system that enables users to interact with
+             PDF documents in a more efficient and enjoyable way. It uses cutting-edge AI technology to help 
+			 users quickly navigate, understand, and extract valuable insights from their PDFs.  
+			 It also makes learning from PDFs more playful and engaging	Upload PDF and ask the question 	
+Actions:
+A. https://askyourpdf.com/	
+B. Upload PDF and ask the question 
+					
+8. yoodli: Improve your communication skills with personalized and private feedback from our AI speech coach - for free	
+Actions:
+A. https://azure.toastmasters.org/footer/faq/Yoodli	
+FAQ: 
+https://azure.toastmasters.org/footer/faq/Yoodli
+					
+9.formula dog: Generate Excel, Google Sheets, Airtable Formulas, Regex, VBA with the help of AI. 
+    You can also use our explainer tool  to explain MS Excel, Google Sheets, Airtable Formulas, Regex, 
+	SQL and VBA etc	Write some data in search box.
+Actions:	
+A. https://formula.dog/	
+
+FAQ:
+https://www.saasworthy.com/product/formula-dog
+					
+10. signal hire: Real-time verified contact info for recruiters, sales professionals, and marketers. Personal & work contacts		
+Actions:
+A. https://www.signalhire.com/	
+					
+11.sci-hub:	The goal of Sci-Hub is to provide free and unrestricted access to all scientific knowledge ever published 
+in journal or book form	
+Actions: 
+1. 	https://sci-hub.se/
+2. Copy the Research papers URL in search box 	
+FAQ:
+https://answers.library.westernsydney.edu.au/faq/263637

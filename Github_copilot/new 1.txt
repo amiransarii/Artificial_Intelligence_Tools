@@ -1,0 +1,78 @@
+[8:18 PM] Venkataratnam Setty Lokesh Ceeba(UST,IN)
+Can I feed the data mapping specs with rules to generate a Data pipeline based on the data sources and data target connection config files??
+[8:18 PM] Archana Govind(UST,IN)
+now it is at your 10 Am
+[8:21 PM] Bhatt, Vijay Prakash - Dell Team
+How can I open the Co-Pilot chat window in VS Code ?
+[8:21 PM] Kurien Cherian Thomas(UST,IN)
+Vaishnav Nugala
+Yes its possible. We have tried upgrading lower framework code to a newer framework for other languages
+
+in that case, can we do it for the entire project file OR convert it component/module wise ?...
+
+[8:22 PM] Vaishnav Nugala
+Unknown User
+the only bummer is that GH-Copilot and ChatGPT3.5 are trained with data until a few years ago.. so it can not help on recent modern tools..   example: in frontend, if you ask it to write unit test using vitest, it gives you code with jest.. vite & jest are different test libraries (Kinda like you a…
+
+Not sure about this. I tried it myself and it didnt use jest 
+
+ 
+[8:24 PM] Vaishnav Nugala
+Vaishnav Nugala
+Not sure about this. I tried it myself and it didnt use jest      📷
+
+The model used by copilot is trained separately and doesn't depend entirely on the GPT 4 training
+
+[8:24 PM] Yogesh Rathore(UST,IN)
+is t available for Xcode IDE also
+[8:24 PM] Arjun Umathanu(UST,IN)
+Vaishnav Nugala
+Not sure about this. I tried it myself and it didnt use jest      📷
+are you sure that's a working code? is there really 'suite' from vitest?
+ 
+ 
+[8:25 PM] Vaishnav Nugala
+Yogesh Rathore(UST,IN)
+is t available for Xcode IDE also
+
+Not as of today. For the time being to utilize copilot feature you can use VSCode for Mac
+
+[8:25 PM] Yogesh Rathore(UST,IN)
+Vaishnav Nugala
+Not as of today. For the time being to utilize copilot feature you can use VSCode for Mac
+
+thanks
+
+[8:27 PM] Vaishnav Nugala
+Unknown User
+are you sure that's a working code? is there really 'suite' from vitest?      📷
+
+Haven't tested mine. Will check it
+
+[8:39 PM] Bhargav Meka
+please reach out to Manjula Arun(UST,IN) <Manjula.Arun@ust.com> if you need access to GitHub Copilot
+[8:40 PM] Venkataratnam Setty Lokesh Ceeba(UST,IN)
+Great! Very Insightful session!! Kudos Ramesh!
+[8:40 PM] Ramesh Kumar
+GitHub Copilot supported IDEs
+JetBrains IDEs
+Neovim
+Visual Studio
+Visual Studio Code
+GitHub Copilot is compatible with the following Jetbrain IDEs:
+IntelliJ IDEA (Ultimate, Community, Educational)
+Android Studio
+AppCode
+CLion
+Code With Me Guest
+DataGrip
+DataSpell
+GoLand
+JetBrains Client
+MPS
+PhpStorm
+PyCharm (Professional, Community, Educational)
+Rider
+RubyMine
+RustRover
+WebStorm
